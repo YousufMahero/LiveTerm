@@ -1,17 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
+  "title": "Yusuf Mahir Nartok",
   "name": "John Doe",
-  "ascii": "liveterm",
+  "ascii": "mahir",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "YousufMahero",
+    "linkedin": "yusufmahirnartok"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "yusufmahirnartok@gmail.com",
+  "ps1_hostname": "ToMyWorld",
+  "ps1_username": "welcome",
+  "resume_url": "https://drive.google.com/file/d/1KpwinXaR7fO5n7q9xTDwfw0PgTiTo4FP/view?usp=sharing",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
