@@ -129,5 +129,3 @@ You can also connect your github account to vercel and have vercel automatically
 ## Credit
 
 Based on M4TT72's awesome [Terminal](https://github.com/m4tt72/terminal).
-
-Thanks!ada
