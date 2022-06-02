@@ -1,8 +1,9 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/YousufMahero/Mahero/master/README.md",
   "title": "Yusuf Mahir Nartok",
-  "name": "John Doe",
+  "name": "Yusuf Mahir Nartok",
   "ascii": "mahir",
+  "repo": "https://github.com/YousufMahero/LiveTerm",
   "social": {
     "github": "YousufMahero",
     "linkedin": "yusufmahirnartok"
@@ -11,10 +12,6 @@
   "ps1_hostname": "ToMyWorld",
   "ps1_username": "welcome",
   "resume_url": "https://drive.google.com/file/d/1KpwinXaR7fO5n7q9xTDwfw0PgTiTo4FP/view?usp=sharing",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
   "colors": {
     "light": {
       "background": "#FBF1C9",
